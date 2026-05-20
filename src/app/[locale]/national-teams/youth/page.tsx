@@ -1,0 +1,1 @@
+"use client"; export default function P() { return <div className="p-20"><h1 className="text-4xl">Youth Teams</h1><p className="mt-8 opacity-40 font-medium">Official section of the Kyrgyz Football Union.</p></div>; }
