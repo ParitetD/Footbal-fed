@@ -35,3 +35,21 @@
 .backface-hidden {
   backface-visibility: hidden;
 }
+
+.outline-text {
+  -webkit-text-stroke: 1px rgba(255, 255, 255, 0.1);
+  color: transparent;
+}
+
+.outline-text-hero {
+  -webkit-text-stroke: 2px rgba(233, 69, 96, 0.2);
+  color: transparent;
+}
+
+.glass-card {
+  @apply bg-white/5 border border-white/10 backdrop-blur-xl rounded-3xl;
+}
+
+.btn-premium {
+  @apply px-8 py-4 bg-primary text-white font-black uppercase italic tracking-widest hover:bg-secondary transition-all rounded-sm inline-flex items-center gap-3;
+}

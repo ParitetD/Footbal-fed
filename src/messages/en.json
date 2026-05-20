@@ -1,0 +1,55 @@
+{
+  "home": {
+    "heroTitle": "The Pride of the Kyrgyz Republic",
+    "heroSubtitle": "National Team Information Portal",
+    "latestNews": "Latest News",
+    "upcomingMatches": "Match Center"
+  },
+  "nav": {
+    "federation": "Federation",
+    "nationalTeams": "National Teams",
+    "tournaments": "Tournaments",
+    "development": "Development",
+    "media": "Media Center",
+    "leadership": "Leadership",
+    "structure": "Structure",
+    "departments": "Departments",
+    "history": "History",
+    "documents": "Documents",
+    "regulations": "Regulations",
+    "partners": "Partners",
+    "vacancies": "Careers",
+    "men": "Men's Team",
+    "women": "Women's Team",
+    "youth": "Youth Teams",
+    "futsal": "Futsal",
+    "beach": "Beach Soccer",
+    "championships": "Championships",
+    "calendar": "Calendar",
+    "results": "Results",
+    "tables": "League Tables",
+    "stats": "Statistics",
+    "academies": "Academies",
+    "referees": "Referees",
+    "coaches": "Coaches",
+    "licensing": "Licensing",
+    "news": "News",
+    "photo": "Photo Gallery",
+    "video": "Video Center",
+    "press": "Press Office",
+    "faq": "FAQ"
+  },
+  "common": {
+    "explore": "Explore",
+    "readMore": "Read More",
+    "viewAll": "View All"
+  },
+  "teams": {
+    "title": "National Teams",
+    "men": "Men's National Team",
+    "headCoach": "Head Coach",
+    "roster": "Team Roster",
+    "stats": "Statistics",
+    "fixtures": "Fixtures"
+  }
+}
