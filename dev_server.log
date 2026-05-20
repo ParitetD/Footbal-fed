@@ -1,0 +1,20 @@
+
+> kff-website@0.1.0 dev
+> next dev
+
+▲ Next.js 16.2.6 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.0.2:3000
+✓ Ready in 532ms
+
+○ Compiling / ...
+ GET / 200 in 6.3s (next.js: 5.7s, application-code: 610ms)
+ GET / 200 in 486ms (next.js: 42ms, application-code: 444ms)
+ GET /about 200 in 994ms (next.js: 894ms, application-code: 100ms)
+ GET /news 200 in 777ms (next.js: 689ms, application-code: 88ms)
+ GET /matches 200 in 803ms (next.js: 713ms, application-code: 90ms)
+ GET /national-team 200 in 895ms (next.js: 759ms, application-code: 136ms)
+ GET /contacts 200 in 845ms (next.js: 760ms, application-code: 85ms)
+ GET /gallery 200 in 763ms (next.js: 687ms, application-code: 76ms)
+ GET / 200 in 115ms (next.js: 23ms, application-code: 92ms)
+✓ Compiled in 125ms
